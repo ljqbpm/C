@@ -13,5 +13,6 @@ int main(int argc, const char * argv[]) {
     char a='\n';
     printf("Hello, World!%c",a);
     printf("It's just a test!\n");
+    printf("It's another test!\n");
     return 0;
 }
